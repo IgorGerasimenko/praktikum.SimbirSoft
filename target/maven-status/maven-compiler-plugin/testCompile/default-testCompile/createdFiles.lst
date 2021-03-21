@@ -1,0 +1,4 @@
+Tests\TestBase.class
+Pages\CalculatorPage.class
+Pages\HomePage.class
+Tests\CalculatorTests.class
